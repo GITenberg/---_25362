@@ -1,0 +1,27 @@
+_repo: '---_25362'
+_version: 0.1.0
+alternative_title: Sou Shen Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gan, Bao, active 317-322
+    alias: 干寶
+    gutenberg_agent_id: '2398'
+    url: http://www.gutenberg.org/2009/agents/2398
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25362'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- China'
+- !lcsh 'Tales -- China'
+- !lcc 'GR'
+title: 搜神記
+url: http://www.gutenberg.org/ebooks/25362
